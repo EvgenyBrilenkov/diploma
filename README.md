@@ -14,7 +14,7 @@
 6. `6_inference.py` - инференс обученной модели
 7. `7_metrics.ipynb` - расчет метрик качества модели
 
-На Google-диске лежат все наборы данных (т.к. в GitHub нельзя загружать такие большие файлы), а также продублированный код проекта https://drive.google.com/drive/folders/1aluuIDcfMWWDgcMjaZm31yGXYTW1L38m  
+На Google-диске лежат все наборы данных (т.к. в GitHub нельзя загружать такие большие файлы), а также продублированный код проекта: https://drive.google.com/drive/folders/1aluuIDcfMWWDgcMjaZm31yGXYTW1L38m  
 
 Подробное описание проекта можно найти в документе моего диплома: https://docs.google.com/document/d/18k6BVzBbitiNnUuOjswuUi0GdIbfU60ci3ddHfYMxeM/edit?usp=sharing
 
