@@ -14,4 +14,11 @@
 6. `6_inference.py` - инференс обученной модели
 7. `7_metrics.ipynb` - расчет метрик качества модели
 
+На Google-диске лежат все наборы данных (т.к. в GitHub нельзя загружать такие большие файлы), а также продублированный код проекта https://drive.google.com/drive/folders/1aluuIDcfMWWDgcMjaZm31yGXYTW1L38m  
 
+Подробное описание проекта можно найти в документе моего диплома: https://docs.google.com/document/d/18k6BVzBbitiNnUuOjswuUi0GdIbfU60ci3ddHfYMxeM/edit?usp=sharing
+
+Выбор модели (итог - Reasonin Llama v0.1 1B) и формата промпта (итог - few-shots) был осуществлен эксприментально. 20 случайно выбранных реакций из датасета прогонялись через отобранные модели (модели отбирались по новизне и небольшому количесвту параметров), а также прогонялись через лучшие модели с различными формулировками промптов. Результаты экспериментов были записаны в таблицу: https://docs.google.com/spreadsheets/d/1zGEa4tiJ6lQfgJxAZhLvIxbawqEFmnze18G4R2nrink/edit?gid=0#gid=0 
+
+Пример:
+![image](https://github.com/user-attachments/assets/73ed615b-3a3e-499f-b3f7-510f5f7ea707)
