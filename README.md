@@ -25,6 +25,7 @@
 На Google-диске лежат все наборы данных (т.к. в GitHub нельзя загружать такие большие файлы, upd: у меня получилось загрузить данные на GitHub тоже), а также продублированный код проекта: https://drive.google.com/drive/folders/1aluuIDcfMWWDgcMjaZm31yGXYTW1L38m  
 
 С кратким описанием проекта можно ознакомиться в презентации: https://docs.google.com/presentation/d/1gVQsbcpk250MAnm0zsR6swvmX9YLD9gV/edit?usp=sharing&ouid=112718877929397810155&rtpof=true&sd=true  
+
 Или в пояснительной записке: https://drive.google.com/file/d/1J53W1PxXT1IyVBBnBXazi33kS_hf4VDx/view?usp=sharing
 
 Подробное описание проекта можно найти в документе моего диплома: https://docs.google.com/document/d/18k6BVzBbitiNnUuOjswuUi0GdIbfU60ci3ddHfYMxeM/edit?usp=sharing
